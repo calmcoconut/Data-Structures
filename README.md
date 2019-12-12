@@ -22,3 +22,6 @@ Course work
 
 7. Hash Tables
 - An introduction to hashtables and collision avoidance
+
+8. RSA Encryption and Bit Data Manipulation
+- An introduction to working with the RSA encryption algorithm to encrypt files. Done with bits instead of typicall ASCII.
