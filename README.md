@@ -28,4 +28,4 @@
 9. RSA Encryption and Bit Data Manipulation
 - An introduction to working with the RSA encryption algorithm to encrypt files. Done with bits instead of typicall ASCII.
 
-# Credit textbook author for the course who provided many basic abstractions to which we expanded upon to solve coursework. The textbook and author is <i>Fundamentals of Python: Data Structures, 2nd Edition, by Lambert, 2019, Cengage Learning.</i>
+<i> Credit textbook author for the course who provided many basic abstractions to which we expanded upon to solve coursework. The textbook and author is <u>Fundamentals of Python: Data Structures, 2nd Edition, by Lambert, 2019, Cengage Learning.</u></i>
