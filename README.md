@@ -20,8 +20,12 @@
 6. Rebalancing a tree to a BST
 - Trees and rebalancing a tree to maintain a binary tree property
 
-7. Hash Tables
+7. Heaps and Heap sort
+
+8. Hash Tables
 - An introduction to hashtables and collision avoidance
 
-8. RSA Encryption and Bit Data Manipulation
+9. RSA Encryption and Bit Data Manipulation
 - An introduction to working with the RSA encryption algorithm to encrypt files. Done with bits instead of typicall ASCII.
+
+# Credit textbook author for the course who provided many basic abstractions to which we expanded upon to solve coursework. The textbook and author is <i>Fundamentals of Python: Data Structures, 2nd Edition, by Lambert, 2019, Cengage Learning.</i>
