@@ -1,4 +1,4 @@
-# Objects-and-Algorithms
+# Python-Data-Structures
 Course work
 Describes course work examples from my Computer Science 255 Course.
 
