@@ -1,6 +1,6 @@
-# Python-Data-Structures
-Course work
-- Describes course work examples from my Computer Science 242 Course. This repository highlights the most challenging sections of the course.
+# Python-Data-Structures <i>Course work</i>
+
+<b>Describes course work examples from my Computer Science 242 Course. This repository highlights the most challenging sections of the course.</b>
 
 1. Creating a Library
 - Introduction to the course and using simple class structures
