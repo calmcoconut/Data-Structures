@@ -1,19 +1,17 @@
 # Python-Data-Structures
 Course work
-Describes course work examples from my Computer Science 255 Course.
+Describes course work examples from my Computer Science 242 Course. This repository highlights the most challenging sections of the course.
 
-1. Sum of K (Exercise and Lab)
+1. Creating a Library
 
-2. Sorting (Exercise and Lab)
+2. Sorting (Divide and Conquer)
 
-3. Radom number Generator
+3. Linked List to Doubly Linked List
 
-4. Hash Table
+4. Solving a grid (BFS vs DFS)
 
-5. Heaps (Exercise and Lab)
+5. List Iterators (Advantge of O(1) operations)
 
-6. Kruskal's Algorithm (Exercise and Algorithm)
+6. Rebalancing a tree to a BST
 
-7. Huffman Algorithm
-
-8. RSA Encryption Algorithm (Exercise and Lab)
+7. Hash Tables
